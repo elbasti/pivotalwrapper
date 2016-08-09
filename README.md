@@ -8,6 +8,11 @@ Built and tested with python 3.5
 ## Installation
 After cloning, run `pip install -e .` from the project root.
 
+## Running tests
+Tests require pytest
+
+In the project root type `py.test`
+
 ## Usage
 
 ### Basic usage
