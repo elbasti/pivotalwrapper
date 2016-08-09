@@ -1,0 +1,6 @@
+## !! Could not determine repository location
+pivotalwrapper==0.1
+py==1.4.31
+pytest==2.9.2
+pytest-mock==1.2
+requests==2.11.0
