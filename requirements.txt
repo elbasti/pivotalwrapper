@@ -1,5 +1,4 @@
-## !! Could not determine repository location
-pivotalwrapper==0.1
+-e git+git@github.com:elbasti/pivotalwrapper.git@31621d919698707c860aa5af9abceb89aa92b4f0#egg=pivotalwrapper
 py==1.4.31
 pytest==2.9.2
 pytest-mock==1.2
